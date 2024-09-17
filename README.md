@@ -17,4 +17,4 @@ ML Ingener
                     </p>
                     
 ### Контакты
-Telegram - @Navi_Nimere
+Telegram - https://telegram.org/@Navi_Nimere
