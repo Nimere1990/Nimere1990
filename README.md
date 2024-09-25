@@ -18,3 +18,5 @@ ML Ingener
                     
 ### Контакты
 Telegram - https://telegram.org/@Navi_Nimere
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIMERE1990&theme=darcula_icons=true)
