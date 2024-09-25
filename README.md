@@ -19,7 +19,7 @@ ML Ingener
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width="36" height="36" alt="Pandas" /></a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)" width="50" height="36" alt="Keras" /></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" width="50" height="36" alt="Matplotlib" /></a>
-<a href="hhttps://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" width="50" height="36" alt="scikit-learn" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" width="50" height="36" alt="scikit-learn" /></a>
 </p>                   
 ### Контакты
 Telegram - https://telegram.org/@Navi_Nimere
