@@ -4,11 +4,10 @@
 ML/DL-инженер
 ----------
 🌍 Я живу в Тамбове
-👨‍🎓 Учусь в академии нейросетей The Founder
-📞 Вы можете связаться со мной по TG: *   <a href="https://www.github.com/Nimere1990" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Nimere1990?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 
-    </a>
+👨‍🎓 Учусь в академии нейросетей The Founder (https://dnk.the-founder.ru/school/)
+
+📞 Вы можете связаться со мной по TG: @Navi_Nimere
 
 👨‍💻 Обо мне
 
